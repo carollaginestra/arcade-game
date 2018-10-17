@@ -4,13 +4,13 @@ This project was created for Udacity advanced front-end course.
 
 ## Online version
 
-[click here](//)
+[click here](https://carollaginestra.github.io/arcade-game/)
 
 ## About the game
 
 The goal is to arrive to the water without being touched by the ladybugs. Because when there is a collision with the ladybugs and the character, the character will return to the starting point.
 
-### How to play
+## How to play
 
 You can move your character using the following commands:
 
