@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#win {
+    display: none;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 425px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.button {
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #5fc148;
+    color: white;
+    font-weight: bold;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    background-color: #5fc148;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
